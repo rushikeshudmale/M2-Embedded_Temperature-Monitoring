@@ -4,23 +4,20 @@
 
 |ON|OFF|
 |:--:|:--:|
-|![ON]![ON](https://user-images.githubusercontent.com/94127613/144220118-c987fb80-cb16-4a37-ba15-3fd00ad5bd00.png)
-|![OFF]![OFF](https://user-images.githubusercontent.com/94127613/144220181-c3e33206-0f3f-433c-b704-c708bccfacc7.png)
-|
+|![ON]![ON](https://user-images.githubusercontent.com/94127613/144220118-c987fb80-cb16-4a37-ba15-3fd00ad5bd00.png)|![OFF]![OFF](https://user-images.githubusercontent.com/94127613/144220181-c3e33206-0f3f-433c-b704-c708bccfacc7.png)|
+
 
 ## Activity 2
 
 |MAX|RANDOM|
 |:--:|:--:|
-|![MAX]![MAX](https://user-images.githubusercontent.com/94127613/144220250-e0e53fa1-3e52-4b11-b12a-8539b3fc74ad.png)
-|![RANDOM]![RANDOM](https://user-images.githubusercontent.com/94127613/144220291-7fffec09-2cf7-4cb4-aff9-cfab931d2fbe.png)|
+|![MAX]![MAX](https://user-images.githubusercontent.com/94127613/144220250-e0e53fa1-3e52-4b11-b12a-8539b3fc74ad.png)|![RANDOM]![RANDOM](https://user-images.githubusercontent.com/94127613/144220291-7fffec09-2cf7-4cb4-aff9-cfab931d2fbe.png)|
 
 ## Activity 3
 
 |PWM 70% duty-cycle|PWM 20% duty-cycle|
 |:--:|:--:|
-|![PWM_70]![PWM_70](https://user-images.githubusercontent.com/94127613/144220391-8d2e218a-4e13-45aa-b12c-8c2550c9f4cd.png)
-|![PWM_20]![PWM_20](https://user-images.githubusercontent.com/94127613/144220446-14117f7a-3e9d-4aa4-be3e-01a641c22a94.png)|
+|![PWM_70]![PWM_70](https://user-images.githubusercontent.com/94127613/144220391-8d2e218a-4e13-45aa-b12c-8c2550c9f4cd.png)|![PWM_20]![PWM_20](https://user-images.githubusercontent.com/94127613/144220446-14117f7a-3e9d-4aa4-be3e-01a641c22a94.png)|
 
 ## Activity 4
 
