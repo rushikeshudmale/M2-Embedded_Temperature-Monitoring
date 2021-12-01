@@ -1,4 +1,4 @@
-.# Activity 1
+# Activity 1
 ## Controlling led using button and heater as input 
 ## In Action
 
