@@ -1,9 +1,6 @@
 # Controlling heater element using a temperature sensor
 
-#### CI and Code Quality
-|Build|Cppcheck|Codacy|
-|:--:|:--:|:--:|
-|[![Linux-build]|[![Cppcheck]]|[![Codacy Badge]]|
+
 
 # Activity 1
 ## Controlling led using button and heater as input 
