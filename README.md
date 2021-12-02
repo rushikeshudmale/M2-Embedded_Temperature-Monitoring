@@ -6,7 +6,7 @@
 #### CI and Code Quality
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
-|[![Linux-build]|[![Cppcheck]]|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/c13180010a7f4b22a087a15f5c520702)](https://www.codacy.com/gh/rushikeshudmale/M2-Embedded_Temperature-Monitoring/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rushikeshudmale/M2-Embedded_Temperature-Monitoring&amp;utm_campaign=Badge_Grade)
+|[![Linux-build]|[![cppcheck-action-test](https://github.com/rushikeshudmale/M2-Embedded_Temperature-Monitoring/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/rushikeshudmale/M2-Embedded_Temperature-Monitoring/actions/workflows/cppcheck.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/c13180010a7f4b22a087a15f5c520702)](https://www.codacy.com/gh/rushikeshudmale/M2-Embedded_Temperature-Monitoring/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rushikeshudmale/M2-Embedded_Temperature-Monitoring&amp;utm_campaign=Badge_Grade)
 
 # Activity 1
 ## Controlling led using button and heater as input 
